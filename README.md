@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌍 I'm Currently studying a the University of Canterbury, New Zealand<br>🧠 I'm Currently learning about Embedded Systems, Data Base Design  and Computer Science Algorithms<br>👀 I'm looking for a Summer Internship<br>✉️ Reach  me by email: lukehenrypaiti@gmail.com
+🌍 I'm Currently studying a the University of Canterbury, New Zealand<br>🧠 I'm Currently learning React, Algorithms, and Embedded Systems<br>👀 I'm looking for a Summer Internship<br>✉️ Reach  me by email: lukehenrypaiti@gmail.com
 
 
 ## 🌐 Socials:
